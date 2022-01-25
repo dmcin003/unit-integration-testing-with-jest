@@ -1,0 +1,29 @@
+{
+  "name": "unit-integration-testing-with-jest",
+  "version": "1.0.0",
+  "description": "unit/integration testing in node.js with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmcin003/unit-integration-testing-with-jest.git"
+  },
+  "keywords": [
+    "unit",
+    "testing"
+  ],
+  "author": "Darron McIntyre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmcin003/unit-integration-testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/dmcin003/unit-integration-testing-with-jest#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
